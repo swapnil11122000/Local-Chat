@@ -1,5 +1,5 @@
-File Raw view is not available due to large size 
-Here this app is able to send messages in LAN only
+File Raw view is not available due to large size, but can download .exe from here.
+this app is able to send messages in LAN only
 
 
 
